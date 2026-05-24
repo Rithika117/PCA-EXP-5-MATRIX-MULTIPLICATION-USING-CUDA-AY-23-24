@@ -1,4 +1,4 @@
-# PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
++# PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24
 <h3>NAME:Rithika k</h3>
 <h3>REGISTER NO:212224230230</h3>
 
@@ -86,4 +86,4 @@ int main() {
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000211 sec and host took 0.000216 sec.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.126788 seconds and host took  0.000294 seconds
